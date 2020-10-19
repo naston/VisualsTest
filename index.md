@@ -1,3 +1,4 @@
+<div style= "width:100%; height:100%; background: white;">
 <div style= "width:20%; height:100%; float:left; background: black;">
   <a href = "Driver_Passing.html">Page 1</a>
   <a href = "Driver_Passing.html">Page 2</a>
@@ -42,4 +43,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>
 </div>
