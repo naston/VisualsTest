@@ -1,3 +1,8 @@
+<div style= "width=20%; float = left;">
+  <a href = "Driver_Passing.html>Page 1</a>
+  <a href = "Driver_Passing.html">Page 2</a>
+</div>
+<div style= "width=80%; float = right;">
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/naston/VisualsTest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -37,3 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>
