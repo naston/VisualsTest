@@ -1,5 +1,5 @@
 <div style= "width:100%; height:100%; background: white;">
-<div style= "width:20%; height:100%; float:left; background: black;">
+<div style= "width:20%; height:100%; float:left; background: blue;">
   <a href = "Driver_Passing.html">Page 1</a>
   <a href = "Driver_Passing.html">Page 2</a>
 </div>
