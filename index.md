@@ -2,7 +2,7 @@
   <a href = "Driver_Passing.html">Page 1</a>
   <a href = "Driver_Passing.html">Page 2</a>
 </div>
-<div style= "width:80%; height:100%; float:right;">
+<div style= "width:80%; height:100%; float:right; background: white;">
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/naston/VisualsTest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
