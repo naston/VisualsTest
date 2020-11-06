@@ -62,9 +62,9 @@
 <a href = "2020/Speed_Difference(All Cars).html">Speed Difference(All Cars)</a><br>
 <a href = "2020/WillOwen_Passing.html">Will Owen Passing</a><br>
 <a href = "2020/LMP1_Class_Distributions.html">LMP1 Class Distributions</a><br>
-<a href = "2020/LMP2_Class_Distributions.html">LMP1 Class Distributions</a><br>
-<a href = "2020/LMGTE Pro_Class_Distributions.html">LMP1 Class Distributions</a><br>
-<a href = "2020/LMGTE Am_Class_Distributions.html">LMP1 Class Distributions</a><br>
+<a href = "2020/LMP2_Class_Distributions.html">LMP2 Class Distributions</a><br>
+<a href = "2020/LMGTE Pro_Class_Distributions.html">LMPGTE Pro Class Distributions</a><br>
+<a href = "2020/LMGTE Am_Class_Distributions.html">LMPGTE Am Class Distributions</a><br>
 
 
 <h1>Comparing the Two Years</h1>
