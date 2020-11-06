@@ -28,7 +28,7 @@
 <a href = "2019/Pass_Rate_Time_Table.html">Pass Rate Time Table</a><br>
 <a href = "2019/Result_Table.html">Result Table</a><br>
 <a href = "2019/Speed_Difference(All Cars).html">Speed Difference(All Cars)</a><br>
-<a href = "2019/WillOwen_Passing.html">WillOwen Passing</a><br>
+<a href = "2019/WillOwen_Passing.html">Will Owen Passing</a><br>
 
 <h1>2020</h1>
 <a href = "2020/Car32_Passing.html">Car32 Passing</a><br>
@@ -60,7 +60,12 @@
 <a href = "2020/Pass_Rate_Time_Table.html">Pass Rate Time Table</a><br>
 <a href = "2020/Result_Table.html">Result Table</a><br>
 <a href = "2020/Speed_Difference(All Cars).html">Speed Difference(All Cars)</a><br>
-<a href = "2020/WillOwen_Passing.html">WillOwen Passing</a><br>
+<a href = "2020/WillOwen_Passing.html">Will Owen Passing</a><br>
+<a href = "2020/LMP1_Class_Distributions.html">LMP1 Class Distributions</a><br>
+<a href = "2020/LMP2_Class_Distributions.html">LMP1 Class Distributions</a><br>
+<a href = "2020/LMGTE Pro_Class_Distributions.html">LMP1 Class Distributions</a><br>
+<a href = "2020/LMGTE Am_Class_Distributions.html">LMP1 Class Distributions</a><br>
+
 
 <h1>Comparing the Two Years</h1>
 <a href = "Comparison/LMGTE Am_Consistency_Graph.html">LMGTE Am Consistency</a><br>
